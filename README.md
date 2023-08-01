@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriela 👋
 - 🚀 I'm a full-stack web developer based on Sao Paulo, Brazil.
-- 😍 My dream is to teach programming to other women and children.
+- 😍 My dream is to teach programming to other women and children in the future.
 - 💖 I also like going to the gym, weightlifting, writing, walking through nature and eating peruvian food.
 
 ##  
